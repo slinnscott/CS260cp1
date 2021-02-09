@@ -1,0 +1,52 @@
+
+html {
+  font-size: 22px;
+}
+body {
+  padding: 1rem;
+}
+
+.my-container {
+  border: 1px solid green;
+}
+
+.my-row {
+  border: 3px solid red;
+  height: auto;
+}
+
+.my-col {
+  border: 3px dotted blue;
+}
+.carousel-image{
+  margin: auto;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.portfolio-row{
+  padding-bottom: 50px;
+
+}
+
+.padding-top{
+  padding-top: 1rem;
+}
+
+.padding-footer{
+  padding-top: 0.5rem;
+}
+
+.navbar{
+  padding-left: 2rem;
+}
+
+.nav-item:hover {
+  color: gray;
+}
